@@ -3,7 +3,7 @@
      Update any bracketed/marked section as your projects evolve!
 ============================================================= -->
 
-<h1 align="center">Hi there 👋, I'm Tejeswar</h1>
+<h1 align="center">Hi, I'm Tejeswar 👋</h1>
 <h3 align="center">Frontend & Java Full Stack Developer | AI Integration Enthusiast</h3>
 
 <p align="center">
@@ -70,7 +70,7 @@
 **AI / ML**
 <!-- <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p> -->
 
 **Tools & Platforms**
@@ -155,3 +155,33 @@ My personal portfolio site with a vintage newspaper theme, featuring 3D flip pro
 </p>
 
 <p align="center"><i>Thanks for stopping by — always happy to connect and build something cool! 🚀</i></p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kondurutejeswar/kondurutejeswar/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+<!-- To enable this: add the "snk" GitHub Action to a repo named exactly `kondurutejeswar`
+     (Settings → Actions → search "platane/snk" workflow). It auto-generates the snake SVG above. -->
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kondurutejeswar&color=6C63FF&style=flat-square" alt="Profile views" />
+</p>
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kondurutejeswar"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+</p>
+<!-- Remove this section if you don't have/want a Buy Me a Coffee page -->
