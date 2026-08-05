@@ -51,14 +51,12 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> -->
 </p>
 
 **Backend & Frameworks**
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> -->
 </p>
 
 **Databases**
@@ -66,12 +64,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
-
-**AI / ML**
-<!-- <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p> -->
 
 **Tools & Platforms**
 <p>
@@ -83,8 +75,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-<!-- Add repo/live links below once each project is pushed to GitHub -->
 
 ### 🩸 AI-Based Blood Cancer Stage Detection
 A CNN model (TensorFlow/Keras) that classifies blood cell images into four cancer stages, backed by a full research report, presentation deck, and reproducible notebook.
@@ -104,7 +94,7 @@ A Jarvis-inspired AI assistant concept I'm actively designing and building, inte
 ### 📰 The Developer Gazette — Portfolio
 My personal portfolio site with a vintage newspaper theme, featuring 3D flip project cards and scroll-based animations.
 **Tech:** HTML · CSS · JavaScript
-**Live:** [kondurutejeswar.github.io/Portfolio](https://kondurutejeswar.github.io/Portfolio/) *(update pending)*
+**Live:** [kondurutejeswar.github.io/Portfolio](https://kondurutejeswar.github.io/Portfolio/)
 
 ---
 
@@ -136,12 +126,12 @@ My personal portfolio site with a vintage newspaper theme, featuring 3D flip pro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kondurutejeswar&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondurutejeswar&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kondurutejeswar&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondurutejeswar&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kondurutejeswar&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=kondurutejeswar&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -164,9 +154,6 @@ My personal portfolio site with a vintage newspaper theme, featuring 3D flip pro
   <img src="https://raw.githubusercontent.com/kondurutejeswar/kondurutejeswar/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
-<!-- To enable this: add the "snk" GitHub Action to a repo named exactly `kondurutejeswar`
-     (Settings → Actions → search "platane/snk" workflow). It auto-generates the snake SVG above. -->
-
 ## 💬 Random Dev Quote
 
 <p align="center">
@@ -184,4 +171,3 @@ My personal portfolio site with a vintage newspaper theme, featuring 3D flip pro
 <p align="center">
   <a href="https://www.buymeacoffee.com/kondurutejeswar"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
 </p>
-<!-- Remove this section if you don't have/want a Buy Me a Coffee page -->
